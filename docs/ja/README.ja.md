@@ -49,10 +49,14 @@ Use this template
 ## 最初に読むもの
 
 - セットアップ手順: `[docs/ja/SETUP.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/SETUP.ja.md)`
+- はじめて使う人向けガイド: `[docs/ja/GETTING_STARTED.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/GETTING_STARTED.ja.md)`
 - 利用ガイド: `[docs/ja/USAGE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/USAGE.ja.md)`
+- ゲーム開発ワークフローガイド: `[docs/ja/WORKFLOW_GUIDE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/WORKFLOW_GUIDE.ja.md)`
 - カスタマイズガイド: `[docs/ja/CUSTOMIZE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/CUSTOMIZE.ja.md)`
+- 更新ガイド: `[docs/ja/UPGRADING.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/UPGRADING.ja.md)`
 - 貢献ガイド: `[docs/ja/CONTRIBUTING.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/CONTRIBUTING.ja.md)`
 - 依頼例: `[docs/ja/examples/CODEX_PROMPTS.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/examples/CODEX_PROMPTS.ja.md)`
+- 機能設計テンプレート: `[docs/ja/templates/FEATURE_DESIGN_TEMPLATE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/templates/FEATURE_DESIGN_TEMPLATE.ja.md)`
 
 ## 含まれている主なファイル
 
@@ -61,10 +65,12 @@ Use this template
 - `Assets/Scripts/UI/AGENTS.md`
 - `skills/code-review/SKILL.md`
 - `skills/design-review/SKILL.md`
+- `skills/start-project/SKILL.md`
 - `scripts/validate_unity_gameplay.py`
 - `.githooks/pre-commit`
 - `.githooks/pre-push`
 - `.github/workflows/codex-checks.yml`
+- `.gitignore`
 
 ## 想定している Unity 構成
 

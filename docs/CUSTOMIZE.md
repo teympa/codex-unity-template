@@ -35,6 +35,7 @@ If your project uses another location, update `[scripts/validate_unity_gameplay.
 - Add links to your issue tracker or task board
 - Add Unity version information
 - Add test commands if your repo already has them
+- Add or refine `.gitignore` if your Unity tooling or editor setup needs it
 
 ## Suggested Team-Level Tweaks
 

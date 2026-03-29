@@ -2,11 +2,14 @@
 
 このガイドでは、このテンプレートを Unity プロジェクトに入れて、最低限のチェックが動くまでの手順を説明します。
 
+「まず何から始めればいいか」をもっとやさしく追いたい場合は、先に `[docs/ja/GETTING_STARTED.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/GETTING_STARTED.ja.md)` を読むのがおすすめです。
+
 ## 1. テンプレートを Unity プロジェクトへ入れる
 
 次のファイルとフォルダを Unity repo のルートへコピーします。
 
 - `AGENTS.md`
+- `.gitignore`
 - `skills/`
 - `scripts/`
 - `.githooks/`
@@ -28,6 +31,7 @@ YourUnityProject/
   .githooks/
   skills/
   scripts/
+  .gitignore
   AGENTS.md
 ```
 

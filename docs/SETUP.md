@@ -7,6 +7,7 @@ This guide explains how to put this template into a Unity project and get the ba
 Copy these files and folders into the root of your Unity repository:
 
 - `AGENTS.md`
+- `.gitignore`
 - `skills/`
 - `scripts/`
 - `.githooks/`
@@ -28,6 +29,7 @@ YourUnityProject/
   .githooks/
   skills/
   scripts/
+  .gitignore
   AGENTS.md
 ```
 

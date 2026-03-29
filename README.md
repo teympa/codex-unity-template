@@ -63,9 +63,11 @@ Use this template
 - Setup guide: `[docs/SETUP.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/SETUP.md)`
 - Usage guide: `[docs/USAGE.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/USAGE.md)`
 - Template customization notes: `[docs/CUSTOMIZE.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/CUSTOMIZE.md)`
+- Template upgrade notes: `[UPGRADING.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/UPGRADING.md)`
 - Contribution guide: `[CONTRIBUTING.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/CONTRIBUTING.md)`
 - Codex prompt examples: `[docs/examples/CODEX_PROMPTS.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/examples/CODEX_PROMPTS.md)`
 - Feature design example: `[docs/examples/FEATURE_REQUEST_EXAMPLE.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/examples/FEATURE_REQUEST_EXAMPLE.md)`
+- Feature design template: `[docs/templates/FEATURE_DESIGN_TEMPLATE.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/templates/FEATURE_DESIGN_TEMPLATE.md)`
 
 ## Japanese Docs
 
@@ -73,9 +75,11 @@ Use this template
 - Setup guide in Japanese: `[docs/ja/SETUP.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/SETUP.ja.md)`
 - Usage guide in Japanese: `[docs/ja/USAGE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/USAGE.ja.md)`
 - Customization guide in Japanese: `[docs/ja/CUSTOMIZE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/CUSTOMIZE.ja.md)`
+- Upgrade guide in Japanese: `[docs/ja/UPGRADING.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/UPGRADING.ja.md)`
 - Contribution guide in Japanese: `[docs/ja/CONTRIBUTING.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/CONTRIBUTING.ja.md)`
 - Codex prompt examples in Japanese: `[docs/ja/examples/CODEX_PROMPTS.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/examples/CODEX_PROMPTS.ja.md)`
 - Feature design example in Japanese: `[docs/ja/examples/FEATURE_REQUEST_EXAMPLE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/examples/FEATURE_REQUEST_EXAMPLE.ja.md)`
+- Feature design template in Japanese: `[docs/ja/templates/FEATURE_DESIGN_TEMPLATE.ja.md](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/docs/ja/templates/FEATURE_DESIGN_TEMPLATE.ja.md)`
 
 ## Using This As A GitHub Template
 
@@ -91,10 +95,12 @@ Use this template
 - `Assets/Scripts/UI/AGENTS.md`
 - `skills/code-review/SKILL.md`
 - `skills/design-review/SKILL.md`
+- `skills/start-project/SKILL.md`
 - `scripts/validate_unity_gameplay.py`
 - `.githooks/pre-commit`
 - `.githooks/pre-push`
 - `.github/workflows/codex-checks.yml`
+- `.gitignore`
 
 ## Default Unity Structure
 

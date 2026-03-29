@@ -35,6 +35,7 @@ Assets/Scripts/Gameplay/
 - Unity バージョン情報
 - issue tracker や task board へのリンク
 - 既存 test コマンド
+- Unity の editor や運用に合わせた `.gitignore` の微調整
 
 ## チームで決めると運用しやすいもの
 

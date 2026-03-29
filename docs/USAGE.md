@@ -10,6 +10,10 @@ The template splits support into three layers:
 - `skills/`: repeatable review instructions
 - hooks and CI: lightweight mechanical checks
 
+There is also a good startup workflow:
+
+- `start-project`: use when a repo is new, imported, or not yet ready for implementation
+
 Use them together:
 
 - Put design and coding expectations in `AGENTS.md`
@@ -47,6 +51,8 @@ Ask Codex for a design review before coding starts and have it check:
 - UI and gameplay boundaries
 - where balance values should live
 - whether the design is easy to test and extend
+
+If the repository itself is still being prepared, use `start-project` first and let Codex identify the smallest safe next setup step.
 
 ## How To Use The Code Review Skill
 
