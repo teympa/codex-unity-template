@@ -1,7 +1,7 @@
 # Codex Unity Template
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](c:/Users/teymp/OneDrive/ドキュメント/codex/codex_unity_rules/LICENSE)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-replace_OWNER%2FREPO-lightgrey)
+[![codex-checks](https://github.com/teympa/codex-unity-template/actions/workflows/codex-checks.yml/badge.svg)](https://github.com/teympa/codex-unity-template/actions/workflows/codex-checks.yml)
 
 Reusable template repository for running Unity development with Codex using lightweight rules, review skills, git hooks, and CI.
 
@@ -10,8 +10,6 @@ This template is meant to be copied or used as a base repository for new Unity g
 If you publish this on GitHub, you can use it as a Template Repository so new Unity projects can start from the same Codex-ready operating set.
 
 [Setup](#start-here) | [Usage](#start-here) | [Japanese Docs](#japanese-docs) | [License](#license)
-
-Replace `OWNER/REPO` in the GitHub Actions badge after publishing this template to GitHub.
 
 Start a new project with GitHub's `Use this template` button, then open the new repository and follow the setup guide. This template is meant to help beginners start with a clean Unity structure, lightweight guardrails, and Codex-friendly working rules from day one.
 
